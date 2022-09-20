@@ -5,12 +5,6 @@
 </p>
 
 <p align="center">
-<img src=https://img.shields.io/badge/Made%20with-Python-blue>
-<img src=https://img.shields.io/badge/Python-3.7-green>
-<img src=https://img.shields.io/badge/Version-1.0-yellowgreen>
-<img src=https://img.shields.io/badge/OS-Linux-yellow>
-</p>
-<p align="center">
     <h3 align="center"> Web Scraper is a Python based Tool for web hacking and assesment. Web Scraper is a cluster of 20 most used tools to execute attacks from single click </h3>
 </p>
 
@@ -83,13 +77,8 @@ Enter Target Address [Example.com / IP] : google.com
 
 
 ***
-#### LICENSE
-[MIT-License](LICENSE)
-***
 #### More suggestions and contributions are highly appreciated to make this tool better.
 ### _STAY SAFE, ACT SMART_
 ### Hit Me Up
-[![Twitter ](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_encryptor_)
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xhackerboyy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathyaprakashsahoo)
-[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.cyberbuddy.co.in)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nazeefkhan2372/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazeef-khan-0870351a2/)
