@@ -1,8 +1,5 @@
 # Web Scraper
 ##### _A Melange of Web Tools for Web Hacking_
-<p align="center">
-  <img  width="250" src="Images/Logo.png" />
-</p>
 
 <p align="center">
     <h3 align="center"> Web Scraper is a Python based Tool for web hacking and assesment. Web Scraper is a cluster of 20 most used tools to execute attacks from single click </h3>
