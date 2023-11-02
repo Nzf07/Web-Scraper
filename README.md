@@ -45,7 +45,7 @@ The Developer of Web Scraper will not be held responsible if the tool is used wi
 #### INSTALLATION :
 Web Scraper requires Python 3.7 or higher version to run.
 ```
-$ git clone https://github.com/Encryptor-Sec/Web-Scraper.git
+$ git clone https://github.com/nazeefkhan2372/Web-Scraper.git
 ```
 #### REQUIREMENTS :
 Please install the required libraries in order to run the tool
@@ -61,7 +61,7 @@ $ python3 web_scraper.py
 
 
 <p align="center">
-<img src=https://github.com/Encryptor-Sec/Web-Scraper/blob/main/Images/Tool_image.PNG>
+<img src=https://github.com/nazeefkhan2372/Web-Scraper/blob/main/Images/Tool_image.PNG>
 </p>
 
 The tool will ask to Enter a target for assesment. You can either put IP address of the target or the Domain name
