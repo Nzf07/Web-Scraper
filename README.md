@@ -77,5 +77,4 @@ Enter Target Address [Example.com / IP] : google.com
 #### More suggestions and contributions are highly appreciated to make this tool better.
 ### _STAY SAFE, ACT SMART_
 ### Hit Me Up
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nazeefkhan2372/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazeef-khan-0870351a2/)
