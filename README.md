@@ -2,18 +2,18 @@
 ##### _A Melange of Web Tools for Web Hacking_
 
 <p align="center">
-    <h3 align="center"> Web Scraper is a Python based Tool for web hacking and assesment. Web Scraper is a cluster of 20 most used tools to execute attacks from single click </h3>
+    <h3 align="center"> Web Scraper is a Python based Tool for web hacking and assessment. Web Scraper is a cluster of 20 most used tools to execute attacks from single click </h3>
 </p>
 
 ***
 #### DISCLAIMER :
 
-The Developer of Web Scraper will not be held responsible if the tool is used with malicious or criminal intent. Use at your own risk !
+The Developer of Web Scraper will not be held responsible if the tool is used with malicious or criminal intent. Use at your own risk!
 
 *** 
 #### USES OF WEB SCRAPER :
 - This tool could be used for web hacking
-- You can also perform Reconassiance using this tool
+- You can also perform Reconnaissance using this tool
 - Can be helpful for Bug Bounty 
 - Can be used for scraping sensitive information
 
@@ -54,27 +54,20 @@ $ pip install -r requirements.txt
 ```
 
 #### USAGE :
-The tool can be executed by running the below commannd
+The tool can be executed by running the below command
 ```
 $ python3 web_scraper.py
 ```
 
 
-<p align="center">
-<img src=https://github.com/nazeefkhan2372/Web-Scraper/blob/main/Images/Tool_image.PNG>
-</p>
-
-The tool will ask to Enter a target for assesment. You can either put IP address of the target or the Domain name
+The tool will ask to Enter a target for assessment. You can either put IP address of the target or the Domain name
 ```
 Enter Target Address [Example.com / IP] : google.com
 ```
- Then the tool will check if the target phyically exists or not and it will show the target status [Live / Down]
+ Then the tool will check if the target physically exists or not and it will show the target status [Live / Down]
  
- Then it will prompt you to choose a particular option for assesing the target
+ Then it will prompt you to choose a particular option for assessing the target
 
 
 ***
-#### More suggestions and contributions are highly appreciated to make this tool better.
-### _STAY SAFE, ACT SMART_
-### Hit Me Up
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazeef-khan-0870351a2/)
